@@ -12,6 +12,7 @@
 | AI 응용·업무 자동화 | [리뷰 AI](cases/review-ai.md), [결항 봇](cases/cancellation.md) | 분석·생성 분리, 문서 판독과 업무 판정의 경계 |
 
 - [원본 Notion 포트폴리오](https://app.notion.com/p/bluewhales/_-1-3fe93a64d85c8089b84ec201eb1b5488)
+- 연락: aldursjrnf123@gmail.com
 - [기술 블로그](https://velog.io/@min1336/posts)
 - [팀 프로젝트 변경 공유 PR](https://github.com/pahaha404/tenant-leaf/pull/64): 온보딩·권한 변경, API 영향, 테스트 방법과 미검증 범위를 기록했습니다.
 
